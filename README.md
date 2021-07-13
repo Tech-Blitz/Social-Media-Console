@@ -1,5 +1,4 @@
 # Social-Media-Console
-<h1 align="center">Social Media Console Application
 <h3>Features:</h3> 
 <ol>
 <li>New user signup</li>
